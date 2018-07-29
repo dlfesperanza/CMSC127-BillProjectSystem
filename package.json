@@ -1,0 +1,33 @@
+{
+  "name": "acss-node-react-starter-pack",
+  "version": "1.0.0",
+  "description": "ACSS Guide to MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "concurrently \"cd front-end && npm start\" \"nodemon back-end/server.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieVallejos/acss-node-react-starter-pack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddieVallejos/acss-node-react-starter-pack/issues"
+  },
+  "homepage": "https://github.com/EddieVallejos/acss-node-react-starter-pack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "helmet": "^3.9.0",
+    "materialize-css": "^0.100.2",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "winston": "^2.4.0"
+  }
+}

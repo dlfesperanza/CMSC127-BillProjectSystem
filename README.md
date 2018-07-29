@@ -1,1 +1,7 @@
-# CMSC127-BillProjectSystem
+# Bill-System-Project
+
+ESPERANZA, DANNAH LOUISE F.
+MATIENZO, JOHN LOUIE
+
+ST-3L
+CMSC 127
